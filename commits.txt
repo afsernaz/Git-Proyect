@@ -1,0 +1,23 @@
+commit bc2d407095349180170bf0ff221e864bdd56053a
+Author: Andres Serna <afsernaz@gmail.com>
+Date:   Thu Apr 16 19:19:14 2015 -0500
+
+    subi facebook
+
+commit a4ec4baa83c0a2b68737572379bb2609ca400d1b
+Author: Andres Serna <afsernaz@gmail.com>
+Date:   Thu Apr 16 19:18:09 2015 -0500
+
+    subi la descripcion de mi perfil
+
+commit d7d2c1a3c112a51de10e1759737d95a43ee67625
+Author: Andres Serna <afsernaz@gmail.com>
+Date:   Thu Apr 16 19:15:55 2015 -0500
+
+    subi foto de perfil
+
+commit 9447be4bd72d0bf7d3a27947b4be9710779ea14c
+Author: Andres Serna <afsernaz@gmail.com>
+Date:   Thu Apr 16 19:10:27 2015 -0500
+
+    estos son los archivos base
